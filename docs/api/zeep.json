@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 631,
+  "package": "zeep",
+  "downloads_30d": 32128727,
+  "latest_version": "4.3.3",
+  "latest_version_date": "2026-06-18",
+  "newer_prerelease": null,
+  "last_release": "2026-06-18",
+  "releases_12m": 1,
+  "declared_inactive": false,
+  "repo": "github.com/mvantellingen/python-zeep",
+  "archived": false,
+  "last_push": "2026-10-26",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 2012,
+  "open_issues": 470,
+  "days_since_release": 154,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/zeep/"
+}

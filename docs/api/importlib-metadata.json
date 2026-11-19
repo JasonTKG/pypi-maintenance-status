@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 83,
+  "package": "importlib-metadata",
+  "downloads_30d": 399808222,
+  "latest_version": "10.2.0",
+  "latest_version_date": "2026-11-09",
+  "newer_prerelease": null,
+  "last_release": "2026-11-09",
+  "releases_12m": 9,
+  "declared_inactive": false,
+  "repo": "github.com/python/importlib_metadata",
+  "archived": false,
+  "last_push": "2026-11-09",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 142,
+  "open_issues": 12,
+  "days_since_release": 10,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/importlib-metadata/"
+}

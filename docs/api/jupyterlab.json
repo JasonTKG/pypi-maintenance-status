@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 602,
+  "package": "jupyterlab",
+  "downloads_30d": 34754049,
+  "latest_version": "4.6.6",
+  "latest_version_date": "2026-11-06",
+  "newer_prerelease": "4.7.0b2",
+  "last_release": "2026-11-16",
+  "releases_12m": 34,
+  "declared_inactive": false,
+  "repo": "github.com/jupyterlab/jupyterlab",
+  "archived": false,
+  "last_push": "2026-11-18",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 15405,
+  "open_issues": 2497,
+  "days_since_release": 3,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/jupyterlab/"
+}

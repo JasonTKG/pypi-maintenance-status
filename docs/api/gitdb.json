@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 237,
+  "package": "gitdb",
+  "downloads_30d": 138397566,
+  "latest_version": "4.0.12",
+  "latest_version_date": "2025-01-02",
+  "newer_prerelease": null,
+  "last_release": "2025-01-02",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": "github.com/gitpython-developers/gitdb",
+  "archived": true,
+  "last_push": "2026-07-26",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 227,
+  "open_issues": 6,
+  "days_since_release": 686,
+  "archived_but_releasing": false,
+  "status": "archived"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/gitdb/"
+}

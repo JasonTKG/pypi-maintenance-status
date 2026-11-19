@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 145,
+  "package": "msgpack",
+  "downloads_30d": 232767718,
+  "latest_version": "1.2.4",
+  "latest_version_date": "2026-10-26",
+  "newer_prerelease": null,
+  "last_release": "2026-10-26",
+  "releases_12m": 6,
+  "declared_inactive": false,
+  "repo": "github.com/msgpack/msgpack-python",
+  "archived": false,
+  "last_push": "2026-11-16",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 2108,
+  "open_issues": 23,
+  "days_since_release": 24,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/msgpack/"
+}

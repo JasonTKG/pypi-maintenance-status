@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 938,
+  "package": "natsort",
+  "downloads_30d": 16918989,
+  "latest_version": "8.4.0",
+  "latest_version_date": "2023-06-20",
+  "newer_prerelease": null,
+  "last_release": "2023-06-20",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": "github.com/sethmmorton/natsort",
+  "archived": false,
+  "last_push": "2026-10-16",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 1014,
+  "open_issues": 13,
+  "days_since_release": 1248,
+  "archived_but_releasing": false,
+  "status": "stale"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/natsort/"
+}

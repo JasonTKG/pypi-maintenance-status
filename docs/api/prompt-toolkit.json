@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 153,
+  "package": "prompt-toolkit",
+  "downloads_30d": 218302051,
+  "latest_version": "3.0.53",
+  "latest_version_date": "2026-07-26",
+  "newer_prerelease": null,
+  "last_release": "2026-07-26",
+  "releases_12m": 1,
+  "declared_inactive": false,
+  "repo": "github.com/prompt-toolkit/python-prompt-toolkit",
+  "archived": false,
+  "last_push": "2026-10-20",
+  "scorecard_maintained": 4,
+  "scorecard_date": "2026-08-24",
+  "stars": 10615,
+  "open_issues": 790,
+  "days_since_release": 116,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/prompt-toolkit/"
+}

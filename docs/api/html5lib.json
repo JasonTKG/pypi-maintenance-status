@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 671,
+  "package": "html5lib",
+  "downloads_30d": 29178489,
+  "latest_version": "1.1.0",
+  "latest_version_date": "2020-06-22",
+  "newer_prerelease": null,
+  "last_release": "2020-06-22",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": "github.com/html5lib/html5lib-python",
+  "archived": false,
+  "last_push": "2026-04-21",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 1220,
+  "open_issues": 111,
+  "days_since_release": 2341,
+  "archived_but_releasing": false,
+  "status": "stale"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/html5lib/"
+}

@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 992,
+  "package": "langcodes",
+  "downloads_30d": 15704230,
+  "latest_version": "3.5.1",
+  "latest_version_date": "2025-12-02",
+  "newer_prerelease": null,
+  "last_release": "2025-12-02",
+  "releases_12m": 1,
+  "declared_inactive": false,
+  "repo": "github.com/georgkrause/langcodes",
+  "archived": false,
+  "last_push": "2026-10-11",
+  "scorecard_maintained": null,
+  "scorecard_date": null,
+  "stars": 33,
+  "open_issues": 24,
+  "days_since_release": 352,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/langcodes/"
+}

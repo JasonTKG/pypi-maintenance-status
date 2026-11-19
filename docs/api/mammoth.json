@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 917,
+  "package": "mammoth",
+  "downloads_30d": 17283660,
+  "latest_version": "1.13.0",
+  "latest_version_date": "2026-09-26",
+  "newer_prerelease": null,
+  "last_release": "2026-09-26",
+  "releases_12m": 4,
+  "declared_inactive": false,
+  "repo": "github.com/mwilliamson/python-mammoth",
+  "archived": false,
+  "last_push": "2026-09-26",
+  "scorecard_maintained": 3,
+  "scorecard_date": "2026-08-24",
+  "stars": 1121,
+  "open_issues": 29,
+  "days_since_release": 54,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/mammoth/"
+}

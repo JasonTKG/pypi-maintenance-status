@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 878,
+  "package": "cchardet",
+  "downloads_30d": 18349529,
+  "latest_version": "2.4.1",
+  "latest_version_date": "2026-11-13",
+  "newer_prerelease": null,
+  "last_release": "2026-11-13",
+  "releases_12m": 4,
+  "declared_inactive": false,
+  "repo": "github.com/pyyoshi/cchardet",
+  "archived": false,
+  "last_push": "2026-11-13",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 409,
+  "open_issues": 17,
+  "days_since_release": 6,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/cchardet/"
+}

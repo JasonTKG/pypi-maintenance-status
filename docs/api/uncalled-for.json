@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 394,
+  "package": "uncalled-for",
+  "downloads_30d": 63871874,
+  "latest_version": "0.6.2",
+  "latest_version_date": "2026-11-19",
+  "newer_prerelease": null,
+  "last_release": "2026-11-19",
+  "releases_12m": 14,
+  "declared_inactive": false,
+  "repo": "github.com/chrisguidry/uncalled-for",
+  "archived": false,
+  "last_push": "2026-11-19",
+  "scorecard_maintained": null,
+  "scorecard_date": null,
+  "stars": 17,
+  "open_issues": 4,
+  "days_since_release": 0,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/uncalled-for/"
+}

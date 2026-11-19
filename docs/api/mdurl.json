@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 60,
+  "package": "mdurl",
+  "downloads_30d": 523473477,
+  "latest_version": "0.1.2",
+  "latest_version_date": "2022-08-14",
+  "newer_prerelease": null,
+  "last_release": "2022-08-14",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": "github.com/executablebooks/mdurl",
+  "archived": false,
+  "last_push": "2026-11-16",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 15,
+  "open_issues": 2,
+  "days_since_release": 1558,
+  "archived_but_releasing": false,
+  "status": "stale"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/mdurl/"
+}

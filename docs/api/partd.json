@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 663,
+  "package": "partd",
+  "downloads_30d": 29579051,
+  "latest_version": "1.4.2",
+  "latest_version_date": "2024-05-06",
+  "newer_prerelease": null,
+  "last_release": "2024-05-06",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": "github.com/dask/partd",
+  "archived": false,
+  "last_push": "2024-07-15",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 107,
+  "open_issues": 11,
+  "days_since_release": 927,
+  "archived_but_releasing": false,
+  "status": "stale"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/partd/"
+}

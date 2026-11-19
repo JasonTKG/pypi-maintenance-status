@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 513,
+  "package": "apscheduler",
+  "downloads_30d": 43736749,
+  "latest_version": "3.11.3",
+  "latest_version_date": "2026-06-28",
+  "newer_prerelease": null,
+  "last_release": "2026-06-28",
+  "releases_12m": 2,
+  "declared_inactive": false,
+  "repo": "github.com/agronholm/apscheduler",
+  "archived": false,
+  "last_push": "2026-11-18",
+  "scorecard_maintained": 7,
+  "scorecard_date": "2026-08-24",
+  "stars": 7702,
+  "open_issues": 92,
+  "days_since_release": 144,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/apscheduler/"
+}

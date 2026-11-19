@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 748,
+  "package": "adal",
+  "downloads_30d": 24512602,
+  "latest_version": "1.2.7",
+  "latest_version_date": "2021-04-05",
+  "newer_prerelease": null,
+  "last_release": "2021-04-05",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": "github.com/azuread/azure-activedirectory-library-for-python",
+  "archived": true,
+  "last_push": "2026-03-27",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 258,
+  "open_issues": 0,
+  "days_since_release": 2054,
+  "archived_but_releasing": false,
+  "status": "archived"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/adal/"
+}

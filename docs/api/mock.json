@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 809,
+  "package": "mock",
+  "downloads_30d": 21380006,
+  "latest_version": "5.2.0",
+  "latest_version_date": "2025-03-03",
+  "newer_prerelease": null,
+  "last_release": "2025-03-03",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": "github.com/testing-cabal/mock",
+  "archived": false,
+  "last_push": "2025-03-03",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 537,
+  "open_issues": 0,
+  "days_since_release": 626,
+  "archived_but_releasing": false,
+  "status": "slowing"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/mock/"
+}

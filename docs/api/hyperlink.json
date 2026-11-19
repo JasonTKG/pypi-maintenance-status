@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 835,
+  "package": "hyperlink",
+  "downloads_30d": 20324349,
+  "latest_version": "21.0.0",
+  "latest_version_date": "2021-01-08",
+  "newer_prerelease": null,
+  "last_release": "2021-01-08",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": "github.com/python-hyper/hyperlink",
+  "archived": false,
+  "last_push": "2026-03-20",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 297,
+  "open_issues": 42,
+  "days_since_release": 2141,
+  "archived_but_releasing": false,
+  "status": "stale"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/hyperlink/"
+}

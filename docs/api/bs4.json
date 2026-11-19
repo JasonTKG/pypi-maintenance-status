@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 911,
+  "package": "bs4",
+  "downloads_30d": 17406060,
+  "latest_version": "0.0.2",
+  "latest_version_date": "2024-01-17",
+  "newer_prerelease": null,
+  "last_release": "2024-01-17",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": null,
+  "archived": null,
+  "last_push": null,
+  "scorecard_maintained": null,
+  "scorecard_date": null,
+  "stars": null,
+  "open_issues": null,
+  "days_since_release": 1037,
+  "archived_but_releasing": false,
+  "status": "stale"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/bs4/"
+}

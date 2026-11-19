@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 81,
+  "package": "lxml",
+  "downloads_30d": 413464934,
+  "latest_version": "6.1.3",
+  "latest_version_date": "2026-09-02",
+  "newer_prerelease": null,
+  "last_release": "2026-09-02",
+  "releases_12m": 10,
+  "declared_inactive": false,
+  "repo": "github.com/lxml/lxml",
+  "archived": false,
+  "last_push": "2026-11-18",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 3074,
+  "open_issues": 22,
+  "days_since_release": 78,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/lxml/"
+}

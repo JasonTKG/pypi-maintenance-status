@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 174,
+  "package": "tzlocal",
+  "downloads_30d": 185529714,
+  "latest_version": "5.4.5",
+  "latest_version_date": "2026-10-22",
+  "newer_prerelease": null,
+  "last_release": "2026-10-22",
+  "releases_12m": 6,
+  "declared_inactive": false,
+  "repo": "github.com/regebro/tzlocal",
+  "archived": false,
+  "last_push": "2026-10-22",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 220,
+  "open_issues": 1,
+  "days_since_release": 28,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/tzlocal/"
+}

@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 34,
+  "package": "protobuf",
+  "downloads_30d": 726176210,
+  "latest_version": "7.36.2",
+  "latest_version_date": "2026-09-17",
+  "newer_prerelease": "7.37.0rc3",
+  "last_release": "2026-11-13",
+  "releases_12m": 23,
+  "declared_inactive": false,
+  "repo": null,
+  "archived": null,
+  "last_push": null,
+  "scorecard_maintained": null,
+  "scorecard_date": null,
+  "stars": null,
+  "open_issues": null,
+  "days_since_release": 6,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/protobuf/"
+}

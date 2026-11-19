@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 79,
+  "package": "trove-classifiers",
+  "downloads_30d": 418058349,
+  "latest_version": "2026.9.21.13",
+  "latest_version_date": "2026-09-21",
+  "newer_prerelease": null,
+  "last_release": "2026-09-21",
+  "releases_12m": 10,
+  "declared_inactive": false,
+  "repo": "github.com/pypa/trove-classifiers",
+  "archived": false,
+  "last_push": "2026-09-21",
+  "scorecard_maintained": 1,
+  "scorecard_date": "2026-08-24",
+  "stars": 191,
+  "open_issues": 48,
+  "days_since_release": 59,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/trove-classifiers/"
+}

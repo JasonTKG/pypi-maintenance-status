@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 296,
+  "package": "isort",
+  "downloads_30d": 100154130,
+  "latest_version": "9.0.2",
+  "latest_version_date": "2026-09-28",
+  "newer_prerelease": "10.0.0b3",
+  "last_release": "2026-11-15",
+  "releases_12m": 13,
+  "declared_inactive": false,
+  "repo": "github.com/pycqa/isort",
+  "archived": false,
+  "last_push": "2026-11-16",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 6965,
+  "open_issues": 96,
+  "days_since_release": 4,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/isort/"
+}

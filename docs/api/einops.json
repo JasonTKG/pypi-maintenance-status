@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 742,
+  "package": "einops",
+  "downloads_30d": 24798334,
+  "latest_version": "0.8.2",
+  "latest_version_date": "2026-01-26",
+  "newer_prerelease": "0.9.0.dev0",
+  "last_release": "2026-07-05",
+  "releases_12m": 2,
+  "declared_inactive": false,
+  "repo": "github.com/arogozhnikov/einops",
+  "archived": false,
+  "last_push": "2026-08-26",
+  "scorecard_maintained": 2,
+  "scorecard_date": "2026-08-24",
+  "stars": 9636,
+  "open_issues": 47,
+  "days_since_release": 137,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/einops/"
+}

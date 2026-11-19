@@ -1,0 +1,4 @@
+Data (data/, docs/api/ and the tables and pages in this repository) is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+Attribution: "PyPI maintenance status (github.com/JasonTKG/pypi-maintenance-status)", plus the upstream sources named
+in METHOD.md (hugovk/top-pypi-packages, deps.dev / OpenSSF Scorecard, the PyPI JSON API, the GitHub REST API).

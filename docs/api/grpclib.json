@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 447,
+  "package": "grpclib",
+  "downloads_30d": 51750445,
+  "latest_version": "0.4.9",
+  "latest_version_date": "2025-12-14",
+  "newer_prerelease": null,
+  "last_release": "2025-12-14",
+  "releases_12m": 2,
+  "declared_inactive": false,
+  "repo": "github.com/vmagamedov/grpclib",
+  "archived": false,
+  "last_push": "2025-12-14",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 989,
+  "open_issues": 48,
+  "days_since_release": 340,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/grpclib/"
+}

@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 494,
+  "package": "confluent-kafka",
+  "downloads_30d": 45990772,
+  "latest_version": "2.16.2",
+  "latest_version_date": "2026-11-18",
+  "newer_prerelease": null,
+  "last_release": "2026-11-18",
+  "releases_12m": 20,
+  "declared_inactive": false,
+  "repo": "github.com/confluentinc/confluent-kafka-python",
+  "archived": false,
+  "last_push": "2026-11-19",
+  "scorecard_maintained": null,
+  "scorecard_date": null,
+  "stars": 528,
+  "open_issues": 253,
+  "days_since_release": 1,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/confluent-kafka/"
+}

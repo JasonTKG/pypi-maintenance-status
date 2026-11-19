@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 803,
+  "package": "openapi-spec-validator",
+  "downloads_30d": 21720282,
+  "latest_version": "0.9.0",
+  "latest_version_date": "2026-05-20",
+  "newer_prerelease": null,
+  "last_release": "2026-05-20",
+  "releases_12m": 9,
+  "declared_inactive": false,
+  "repo": "github.com/python-openapi/openapi-spec-validator",
+  "archived": false,
+  "last_push": "2026-08-17",
+  "scorecard_maintained": null,
+  "scorecard_date": null,
+  "stars": 419,
+  "open_issues": 55,
+  "days_since_release": 183,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/openapi-spec-validator/"
+}

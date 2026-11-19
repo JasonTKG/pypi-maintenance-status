@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 254,
+  "package": "executing",
+  "downloads_30d": 124911448,
+  "latest_version": "2.3.0",
+  "latest_version_date": "2026-10-10",
+  "newer_prerelease": null,
+  "last_release": "2026-10-10",
+  "releases_12m": 1,
+  "declared_inactive": false,
+  "repo": "github.com/alexmojaki/executing",
+  "archived": false,
+  "last_push": "2026-10-29",
+  "scorecard_maintained": 3,
+  "scorecard_date": "2026-08-24",
+  "stars": 404,
+  "open_issues": 17,
+  "days_since_release": 40,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/executing/"
+}

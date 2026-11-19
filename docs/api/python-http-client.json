@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 764,
+  "package": "python-http-client",
+  "downloads_30d": 23541584,
+  "latest_version": "3.3.7",
+  "latest_version_date": "2022-03-09",
+  "newer_prerelease": null,
+  "last_release": "2022-03-09",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": "github.com/sendgrid/python-http-client",
+  "archived": false,
+  "last_push": "2026-10-29",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 126,
+  "open_issues": 3,
+  "days_since_release": 1716,
+  "archived_but_releasing": false,
+  "status": "stale"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/python-http-client/"
+}

@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 348,
+  "package": "mdit-py-plugins",
+  "downloads_30d": 75790570,
+  "latest_version": "0.7.0",
+  "latest_version_date": "2026-11-10",
+  "newer_prerelease": null,
+  "last_release": "2026-11-10",
+  "releases_12m": 3,
+  "declared_inactive": false,
+  "repo": "github.com/executablebooks/mdit-py-plugins",
+  "archived": false,
+  "last_push": "2026-11-16",
+  "scorecard_maintained": 3,
+  "scorecard_date": "2026-08-24",
+  "stars": 50,
+  "open_issues": 11,
+  "days_since_release": 9,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/mdit-py-plugins/"
+}

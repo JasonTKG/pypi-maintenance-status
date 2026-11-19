@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 264,
+  "package": "tornado",
+  "downloads_30d": 117669398,
+  "latest_version": "6.6.1",
+  "latest_version_date": "2026-11-09",
+  "newer_prerelease": null,
+  "last_release": "2026-11-09",
+  "releases_12m": 13,
+  "declared_inactive": false,
+  "repo": "github.com/tornadoweb/tornado",
+  "archived": false,
+  "last_push": "2026-11-18",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 22164,
+  "open_issues": 223,
+  "days_since_release": 10,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/tornado/"
+}

@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 567,
+  "package": "msgspec",
+  "downloads_30d": 37324026,
+  "latest_version": "0.22.0",
+  "latest_version_date": "2026-09-29",
+  "newer_prerelease": null,
+  "last_release": "2026-09-29",
+  "releases_12m": 4,
+  "declared_inactive": false,
+  "repo": "github.com/msgspec/msgspec",
+  "archived": false,
+  "last_push": "2026-11-18",
+  "scorecard_maintained": null,
+  "scorecard_date": null,
+  "stars": 4217,
+  "open_issues": 253,
+  "days_since_release": 51,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/msgspec/"
+}

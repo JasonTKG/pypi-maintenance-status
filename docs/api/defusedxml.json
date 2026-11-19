@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 135,
+  "package": "defusedxml",
+  "downloads_30d": 249444390,
+  "latest_version": "0.7.1",
+  "latest_version_date": "2021-03-08",
+  "newer_prerelease": "0.8.0rc2",
+  "last_release": "2023-09-29",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": "github.com/tiran/defusedxml",
+  "archived": false,
+  "last_push": "2024-09-03",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 559,
+  "open_issues": 9,
+  "days_since_release": 1147,
+  "archived_but_releasing": false,
+  "status": "stale"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/defusedxml/"
+}

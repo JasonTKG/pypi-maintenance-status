@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 372,
+  "package": "importlib-resources",
+  "downloads_30d": 70586682,
+  "latest_version": "7.1.0",
+  "latest_version_date": "2026-04-12",
+  "newer_prerelease": null,
+  "last_release": "2026-04-12",
+  "releases_12m": 2,
+  "declared_inactive": false,
+  "repo": "github.com/python/importlib_resources",
+  "archived": false,
+  "last_push": "2026-10-29",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 74,
+  "open_issues": 11,
+  "days_since_release": 221,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/importlib-resources/"
+}

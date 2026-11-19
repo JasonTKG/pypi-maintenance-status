@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 202,
+  "package": "google-resumable-media",
+  "downloads_30d": 161796405,
+  "latest_version": "2.11.0",
+  "latest_version_date": "2026-09-29",
+  "newer_prerelease": null,
+  "last_release": "2026-09-29",
+  "releases_12m": 7,
+  "declared_inactive": false,
+  "repo": "github.com/googleapis/google-cloud-python",
+  "archived": false,
+  "last_push": "2026-11-19",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 5421,
+  "open_issues": 623,
+  "days_since_release": 51,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/google-resumable-media/"
+}

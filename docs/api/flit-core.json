@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 801,
+  "package": "flit-core",
+  "downloads_30d": 21819374,
+  "latest_version": "4.2.0",
+  "latest_version_date": "2026-10-27",
+  "newer_prerelease": null,
+  "last_release": "2026-10-27",
+  "releases_12m": 4,
+  "declared_inactive": false,
+  "repo": "github.com/pypa/flit",
+  "archived": false,
+  "last_push": "2026-10-27",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 2261,
+  "open_issues": 127,
+  "days_since_release": 23,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/flit-core/"
+}

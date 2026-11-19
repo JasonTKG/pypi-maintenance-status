@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 82,
+  "package": "tenacity",
+  "downloads_30d": 407422649,
+  "latest_version": "9.2.1",
+  "latest_version_date": "2026-10-07",
+  "newer_prerelease": null,
+  "last_release": "2026-10-07",
+  "releases_12m": 3,
+  "declared_inactive": false,
+  "repo": "github.com/jd/tenacity",
+  "archived": false,
+  "last_push": "2026-11-01",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 8831,
+  "open_issues": 88,
+  "days_since_release": 43,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/tenacity/"
+}

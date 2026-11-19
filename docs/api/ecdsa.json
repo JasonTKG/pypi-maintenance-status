@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 508,
+  "package": "ecdsa",
+  "downloads_30d": 44281782,
+  "latest_version": "0.19.2",
+  "latest_version_date": "2026-03-26",
+  "newer_prerelease": null,
+  "last_release": "2026-03-26",
+  "releases_12m": 1,
+  "declared_inactive": false,
+  "repo": "github.com/tlsfuzzer/python-ecdsa",
+  "archived": false,
+  "last_push": "2026-11-08",
+  "scorecard_maintained": 8,
+  "scorecard_date": "2026-08-24",
+  "stars": 978,
+  "open_issues": 23,
+  "days_since_release": 238,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/ecdsa/"
+}

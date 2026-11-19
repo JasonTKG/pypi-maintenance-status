@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 658,
+  "package": "graphql-relay",
+  "downloads_30d": 29997614,
+  "latest_version": "3.2.0",
+  "latest_version_date": "2022-04-16",
+  "newer_prerelease": null,
+  "last_release": "2022-04-16",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": "github.com/graphql-python/graphql-relay-py",
+  "archived": false,
+  "last_push": "2023-02-27",
+  "scorecard_maintained": 0,
+  "scorecard_date": "2026-08-24",
+  "stars": 143,
+  "open_issues": 12,
+  "days_since_release": 1678,
+  "archived_but_releasing": false,
+  "status": "stale"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/graphql-relay/"
+}

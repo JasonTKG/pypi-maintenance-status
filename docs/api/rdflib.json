@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 937,
+  "package": "rdflib",
+  "downloads_30d": 16926491,
+  "latest_version": "7.6.0",
+  "latest_version_date": "2026-02-13",
+  "newer_prerelease": null,
+  "last_release": "2026-02-13",
+  "releases_12m": 2,
+  "declared_inactive": false,
+  "repo": "github.com/rdflib/rdflib",
+  "archived": false,
+  "last_push": "2026-11-18",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 2558,
+  "open_issues": 392,
+  "days_since_release": 279,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/rdflib/"
+}

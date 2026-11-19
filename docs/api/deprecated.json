@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 227,
+  "package": "deprecated",
+  "downloads_30d": 148818658,
+  "latest_version": "3.0.1",
+  "latest_version_date": "2026-10-30",
+  "newer_prerelease": null,
+  "last_release": "2026-10-30",
+  "releases_12m": 2,
+  "declared_inactive": false,
+  "repo": "github.com/laurent-laporte-pro/deprecated",
+  "archived": false,
+  "last_push": "2026-11-13",
+  "scorecard_maintained": null,
+  "scorecard_date": null,
+  "stars": 334,
+  "open_issues": 0,
+  "days_since_release": 20,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/deprecated/"
+}

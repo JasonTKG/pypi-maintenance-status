@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 763,
+  "package": "docopt",
+  "downloads_30d": 23597265,
+  "latest_version": "0.6.2",
+  "latest_version_date": "2014-06-16",
+  "newer_prerelease": null,
+  "last_release": "2014-06-16",
+  "releases_12m": 0,
+  "declared_inactive": false,
+  "repo": null,
+  "archived": null,
+  "last_push": null,
+  "scorecard_maintained": null,
+  "scorecard_date": null,
+  "stars": null,
+  "open_issues": null,
+  "days_since_release": 4539,
+  "archived_but_releasing": false,
+  "status": "stale"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/docopt/"
+}

@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 236,
+  "package": "traitlets",
+  "downloads_30d": 139107534,
+  "latest_version": "5.16.1",
+  "latest_version_date": "2026-08-03",
+  "newer_prerelease": null,
+  "last_release": "2026-08-03",
+  "releases_12m": 4,
+  "declared_inactive": false,
+  "repo": "github.com/ipython/traitlets",
+  "archived": false,
+  "last_push": "2026-11-02",
+  "scorecard_maintained": 10,
+  "scorecard_date": "2026-08-24",
+  "stars": 654,
+  "open_issues": 115,
+  "days_since_release": 108,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/traitlets/"
+}

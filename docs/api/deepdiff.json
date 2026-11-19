@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 410,
+  "package": "deepdiff",
+  "downloads_30d": 59902862,
+  "latest_version": "9.2.1",
+  "latest_version_date": "2026-11-18",
+  "newer_prerelease": null,
+  "last_release": "2026-11-18",
+  "releases_12m": 5,
+  "declared_inactive": false,
+  "repo": "github.com/qlustered/deepdiff",
+  "archived": false,
+  "last_push": "2026-11-18",
+  "scorecard_maintained": null,
+  "scorecard_date": null,
+  "stars": 2539,
+  "open_issues": 140,
+  "days_since_release": 1,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/deepdiff/"
+}

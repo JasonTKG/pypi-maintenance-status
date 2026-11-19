@@ -1,0 +1,7 @@
+# PyPI maintenance status
+
+> Is a Python package still maintained? Weekly maintenance signals for the 1000 most-downloaded PyPI packages. Updated 2026-11-19 03:52 UTC.
+
+- [All packages, JSON](https://jasontkg.github.io/pypi-maintenance-status/api/all.json)
+- [Method](https://jasontkg.github.io/pypi-maintenance-status/method/)
+- Per package: https://jasontkg.github.io/pypi-maintenance-status/<package>/ (HTML) and https://jasontkg.github.io/pypi-maintenance-status/api/<package>.json

@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "generated": "2026-11-19T03:52:22+00:00",
+  "status_rule": "archived > inactive (classifier) > active (<= 365 d since last release) > slowing (<= 730 d) > stale",
+  "license": "CC BY 4.0"
+ },
+ "package": {
+  "rank": 586,
+  "package": "pycountry",
+  "downloads_30d": 35698937,
+  "latest_version": "26.2.16",
+  "latest_version_date": "2026-02-17",
+  "newer_prerelease": null,
+  "last_release": "2026-02-17",
+  "releases_12m": 1,
+  "declared_inactive": false,
+  "repo": "github.com/pycountry/pycountry",
+  "archived": false,
+  "last_push": "2026-11-16",
+  "scorecard_maintained": null,
+  "scorecard_date": null,
+  "stars": 980,
+  "open_issues": 35,
+  "days_since_release": 275,
+  "archived_but_releasing": false,
+  "status": "active"
+ },
+ "page": "https://jasontkg.github.io/pypi-maintenance-status/pycountry/"
+}
