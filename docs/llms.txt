@@ -5,3 +5,4 @@
 - [All packages, JSON](https://jasontkg.github.io/pypi-maintenance-status/api/all.json)
 - [Method](https://jasontkg.github.io/pypi-maintenance-status/method/)
 - Per package: https://jasontkg.github.io/pypi-maintenance-status/<package>/ (HTML) and https://jasontkg.github.io/pypi-maintenance-status/api/<package>.json
+- Any package in 7 ecosystems, live: https://package-maintenance.mnpi.workers.dev/v1/{ecosystem}/{name} (JSON) and MCP server https://package-maintenance.mnpi.workers.dev/mcp

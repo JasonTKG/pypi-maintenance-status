@@ -9,6 +9,9 @@ Last update: **2026-11-19 03:52 UTC** · data: [JSON](data/packages.json) · [CS
 
 **Summary:** 🟢 Active 775 · 🟡 Slowing 89 · 🔴 Stale 121 · ⚫ Archived 14 · ⚫ Declared inactive 1
 
+**Check any package from your AI agent or script** (npm, PyPI, Cargo, Go, Maven, NuGet, RubyGems): free API and MCP
+server at [package-maintenance.mnpi.workers.dev](https://package-maintenance.mnpi.workers.dev/). MCP: `claude mcp add --transport http package-maintenance https://package-maintenance.mnpi.workers.dev/mcp`
+
 Status is a mechanical reading of public signals, not a quality judgement: a finished library can release rarely and
 still be fine to use.
 
