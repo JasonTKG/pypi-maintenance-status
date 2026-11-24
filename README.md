@@ -1,6 +1,6 @@
 # PyPI maintenance status: is it still maintained?
 
-Maintenance signals for the 1000 most-downloaded Python packages on PyPI, refreshed weekly: last release, release
+Maintenance signals for the 1000 most-downloaded Python packages on PyPI (last refreshed 2026-11-19; the weekly refresh is paused): last release, release
 cadence, the "Inactive" classifier, whether the source repository is archived, its last push, and the OpenSSF Scorecard
 "Maintained" score. Each package has a page with the evidence on **[jasontkg.github.io/pypi-maintenance-status](https://jasontkg.github.io/pypi-maintenance-status/)**.
 
